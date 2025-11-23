@@ -5,7 +5,8 @@ import NxWelcome from './nx-welcome';
 export function App() {
   return (
     <div>
-      <NxWelcome title="checkout" />
+      {/* <NxWelcome title="checkout" /> */}
+      这是checkout app
     </div>
   );
 }
